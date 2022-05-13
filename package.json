@@ -16,7 +16,7 @@
     "elliptic": "6.3.3",
     "hash.js": "^1.0.0",
     "inherits": "2.0.1",
-    "js-sha3": "0.5.7",
+    "js-sha3": "0.8.0",
     "scrypt-js": "2.0.3",
     "setimmediate": "1.0.4",
     "uuid": "2.0.1",
